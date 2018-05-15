@@ -1,4 +1,3 @@
---Drills
 --What are the three longest trips on rainy days?
 
 WITH rainy
