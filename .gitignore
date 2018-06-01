@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.gitignore
+data/
+*.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+

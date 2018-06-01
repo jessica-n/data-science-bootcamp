@@ -1,3 +1,3 @@
-# thinkful-drills
+# thinkful
 
-Drills for Thinkful Data Science Bootcamp
+Repositiy of Exercises for Thinkful Data Science Bootcamp
